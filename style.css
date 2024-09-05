@@ -1,0 +1,26 @@
+a {
+    position: relative;
+    width: 1440px;
+    height: 1234px;
+
+    background: #F2F2F2;
+}
+
+#NiceToMeetYou {
+    position: absolute;
+    width: 158px;
+    height: 25px;
+    left: calc(50% - 158px/2 - 1px);
+    top: 212px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: -0.05em;
+
+    color: #000000;
+}
