@@ -1,2 +1,1 @@
-# p.a.carter.github.io
-# welcome.
+THIS IS THE P. A. CARTER'S WEBSITE HOSTED BY GITHUB.
